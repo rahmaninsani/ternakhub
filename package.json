@@ -1,0 +1,12 @@
+{
+  "name": "ternakhub",
+  "version": "1.0.0",
+  "description": "Back End Group Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kelompok 20 ASEAN Youth Organization",
+  "license": "ISC"
+}
